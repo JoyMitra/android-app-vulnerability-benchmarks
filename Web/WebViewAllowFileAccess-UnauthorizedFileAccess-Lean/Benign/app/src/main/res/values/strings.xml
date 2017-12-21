@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Benign</string>
+    <string name="url">file:///data/data/edu.ksu.cs.benign/files/demo1.html</string>
+</resources>

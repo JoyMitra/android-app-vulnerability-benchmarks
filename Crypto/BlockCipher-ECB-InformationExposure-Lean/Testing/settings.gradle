@@ -1,0 +1,2 @@
+include ':benign_app'
+include ':secure_app'
